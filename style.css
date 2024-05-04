@@ -57,6 +57,7 @@ body {
     width: 49%;
     height: 45px;
     outline: 0;
+    border:0;
     background-color: #f8a2a2;
     border-radius: 5px;
 }
